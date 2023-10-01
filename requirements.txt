@@ -3,3 +3,4 @@ gunicorn
 flask-htmx
 azure-ai-textanalytics
 azure-core
+Werkzeug==2.3.7
